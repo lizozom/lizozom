@@ -1,24 +1,28 @@
 <div align="left">
 
-<div style="display:flex;flex-direction:row; gap:16px">
-
+<table>
+<tr>
+<td style="vertical-align: top;">
 <img src="https://lizozom.com/static/liza-katz-profile-69ec3307a3fd3231c2f41b41fc49b82e.jpg" width="150" height="150" style="border-radius:100px;"/>
+</td>
+<td>
+<span style="font-size:30px;">Liza Katz</span>
+<p>
+Seasoned Full‑Stack Developer & GenAI Consultant · Ex‑Elastic · RAG, Agents, LLMs, Search Optimization</p>
+<p>
+<a href="https://lizozom.com/blog" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-121212?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lizak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/372086/lizozom" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 
-<div>
-    <span style="font-size:30px;">Liza Katz</span>
-    <p>
-        Seasoned Full‑Stack Developer & GenAI Consultant · Ex‑Elastic · RAG, Agents, LLMs, Search Optimization
-    </p>
-    <div>
-    <a href="https://lizozom.com/blog" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-121212?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/lizak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/372086/lizozom" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-    </div>
-</div>
-
+</p>
+<td>
 <img src="./cat_animation.gif"/>
+</td>
 
-</div>
+
+</td>
+</tr>
+</table>
 <br/>
 
 
