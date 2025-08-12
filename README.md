@@ -1,17 +1,11 @@
-<style>
-    table td {
-        border: none;
-    }
-</style>
-
 <div align="left">
 
 <table>
 <tr>
-<td style="vertical-align: topl">
+<td style="vertical-align: top; border: none;">
 <img src="https://lizozom.com/static/liza-katz-profile-69ec3307a3fd3231c2f41b41fc49b82e.jpg" width="150" height="150" style="border-radius:100px;"/>
 </td>
-<td>
+<td style="border:none;">
 <span style="font-size:30px;">Liza Katz</span>
 <p>
 Seasoned Full‑Stack Developer & GenAI Consultant · Ex‑Elastic · RAG, Agents, LLMs, Search Optimization</p>
@@ -21,7 +15,7 @@ Seasoned Full‑Stack Developer & GenAI Consultant · Ex‑Elastic · RAG, Agent
 <a href="https://stackoverflow.com/users/372086/lizozom" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 
 </p>
-<td>
+<td style="border:none;">
 <img src="./cat_animation.gif"/>
 </td>
 
