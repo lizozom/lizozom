@@ -1,3 +1,9 @@
+<style>
+    table td {
+        border: none;
+    }
+</style>
+
 <div align="left">
 
 <table>
